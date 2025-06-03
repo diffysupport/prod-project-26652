@@ -16,6 +16,23 @@ basic:
         - /--sample1-wp5-cupe
         - /--cupe3912
         - /--unpaidworkwontfly
+        - /--atcomponent
+        - /--scfp2881
+        - /--cupe4600
+        - /--cupe5678
+        - /--cupe728
+        - /--3651-cupe
+        - /--cupe5167
+        - /--5441-cupe
+        - /--cupe561
+        - /--4475-scfp
+        - /--1252-cupe
+        - /--606-cupe
+        - /--cupe3338
+        - /--cupe1883
+        - /--cupeltc
+        - /--cupepei
+        - /--blendedfinancecritique
     monitoring:
         days: {  }
         type: ''
