@@ -13,13 +13,9 @@ basic:
         - 1024
         - 1200
     pages:
-        - /
-        - /site-list
-        - /sample-page
-        - /category/uncategorized
-        - /2019/03/01/hello-world
-        - /author/cupe_webmaster
-        - /feed
+        - /--sample1-wp5-cupe
+        - /--cupe3912
+        - /--unpaidworkwontfly
     monitoring:
         days: {  }
         type: ''
